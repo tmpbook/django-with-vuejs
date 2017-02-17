@@ -9,7 +9,8 @@ FAST AND CLEAR IN DevOps.
 npm install
 ```
 ### 第二步:构建前端
-```
+```python
+# 在 frontend 目录
 npm run build
 ```
 ### 第三步:通过Django 自带server启动项目
