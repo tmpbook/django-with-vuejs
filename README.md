@@ -19,7 +19,7 @@ npm run build
 python manage runserver
 ```
 
-# 更详细的教程在[这里](https://zhuanlan.zhihu.com/p/25080236)
-或这里: https://zhuanlan.zhihu.com/p/25080236
+# 更详细的教程
+这里: https://zhuanlan.zhihu.com/p/25080236
 
 有问题提 [issues](https://github.com/tmpbook/django-with-vuejs/issues/new) 哦
