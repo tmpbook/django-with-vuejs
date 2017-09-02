@@ -1,25 +1,24 @@
 # django-with-vuejs
 FAST AND CLEAR IN DevOps.
 
-本项目是最简版
+This item is the most simplified version
+Step 1: Install front end dependencies
 
-### 第一步:安装前端依赖
-```python
-# 在 package.json 文件所在目录
+# In the directory where the package.json file is located
 npm install
-```
-### 第二步:构建前端
-```python
-# 在 frontend 目录
+
+Step 2: Build the front end
+
+# In the frontend directory
 npm run build
-```
-### 第三步:通过Django 自带server启动项目
-```python
-# 在 manage.py 所在目录
+
+Step 3: Start the project with Django's own server
+
+# In the directory where manage.py is located
 python manage runserver
-```
 
-# 更详细的教程
-这里: https://zhuanlan.zhihu.com/p/24893786
+More detailed tutorials
 
-有问题提 [issues](https://github.com/tmpbook/django-with-vuejs/issues/new) 哦
+Here: https://zhuanlan.zhihu.com/p/24893786
+
+Have questions to mention
