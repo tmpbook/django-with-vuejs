@@ -29,10 +29,10 @@ python manage runserver
 ```
 
 ---
-# 更详细的教程
+## 更详细的教程
 这里: https://zhuanlan.zhihu.com/p/24893786
 
-# 与前端结合的原理
+## 与前端结合的原理
 
 前端构建完成就下面这两个资源
 
@@ -85,7 +85,7 @@ STATICFILES_DIRS = [
 ```
 在 *vue2_frontend/dist/static* 这个目录寻找，但是需要注意的是，这只在 django 的开发模式下才生效。
 
-# 生产环境
+## 生产环境
 
 我们在生产环境使用 Nginx 处理前端页面
 
@@ -95,3 +95,16 @@ STATICFILES_DIRS = [
 使用 Django 来开发 API，JSON 来传输数据。
 
 有任何问题 [New issues](https://github.com/tmpbook/django-with-vuejs/issues/new)
+
+### About me
+
+知乎：[临书](https://www.zhihu.com/people/tmpbook/activities)
+
+微信（WeChat）：
+
+<div align=center>
+    <img width="150" height="150" src="https://github.com/tmpbook/Django-with-ElasticSearch/blob/master/Wechat.jpeg"/>
+</div>
+
+<div align=right>谢谢阅读</div>
+<div align=right>Thanks for watching</div>
