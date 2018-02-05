@@ -4,6 +4,11 @@ import './App.css';
 import { setToken } from './actions';
 
 class App extends Component {
+  componentDidMount() {
+    this.inc = setInterval(this.update,500)
+    console.log("in");
+  }
+
   render() {
     return (
       <div className="App">
