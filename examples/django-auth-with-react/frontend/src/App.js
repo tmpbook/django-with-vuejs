@@ -7,6 +7,7 @@ class App extends Component {
   componentDidMount() {
     this.inc = setInterval(this.update,500)
     console.log("in");
+    setToken()
   }
 
   render() {
