@@ -13,7 +13,7 @@ That is because the django-auth-with-react project is completely a front-end sep
 In the directory where the package.json file is located
 
 ```bash
-cd django-with-vuejs/my_project/vue2_frontend
+cd django-with-vuejs/project/vue2_frontend
 npm install
 ```
 
