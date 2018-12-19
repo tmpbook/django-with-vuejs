@@ -15,7 +15,7 @@ Fast & Clear in DevOps.
 ### Step 1: 装前端依赖
 
 ```
-cd django-with-vuejs/my_project/vue2_frontend
+cd django-with-vuejs/project/vue2_frontend
 npm install
 ```
 
