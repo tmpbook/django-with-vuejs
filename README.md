@@ -101,7 +101,7 @@ We use Nginx to handle the frontend:
 - index.html
 - static/\*
 
-Django only handle the API with `Content-Type` is `application/json`.
+Django only handle the API which `Content-Type` is `application/json`.
 
 ---
 
