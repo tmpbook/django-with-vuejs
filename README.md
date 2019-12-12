@@ -31,7 +31,7 @@ In the directory where manage.py is located
 
 ```bash
 pip install -r requirements.txt
-python manage runserver
+python manage.py runserver
 ```
 
 All done.
